@@ -26,7 +26,7 @@ This repository contains a collection of projects developed as part of the inter
 
 ### 3. Online Voting System
 
-- **Description**: Console application for online voting, managing voter registration, candidate listing, and vote casting.
+- **Description**:This project is an Online Voting System implemented in Java with a graphical user interface (GUI) using the Swing framework. The system allows users to register as voters, view available candidates, cast their votes securely, and view the voting results. The application uses MySQL for data storage to manage voter registration, candidate details, and voting records.
 - **GitHub Directory**: [online-voting-system](https://github.com/ajsat007/TWSIP/tree/main/Online_Voting_System)
 
 ## How to Use
