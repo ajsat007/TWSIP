@@ -18,7 +18,7 @@ This project is an Online Voting System implemented in Java using the Swing fram
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/online-voting-system.git
+   git clone https://github.com/ajsat007/online-voting-system.git
    cd online-voting-system
    ```
 
