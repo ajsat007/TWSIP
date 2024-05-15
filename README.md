@@ -17,17 +17,17 @@ This repository contains a collection of projects developed as part of the inter
 ### 1. Guessing Number Game
 
 - **Description**: Simple console-based game where the user guesses a randomly generated number within a specified range.
-- **GitHub Directory**: [guessing-number-game](https://github.com/ajsat007/twsip/tree/main/guessing-number-game)
+- **GitHub Directory**: [guessing-number-game](https://github.com/ajsat007/TWSIP/tree/main/GuessingNumberSystem)
 
 ### 2. ATM Interface
 
 - **Description**: Console application simulating basic ATM operations including account management, authentication, balance inquiry, deposits, and withdrawals.
-- **GitHub Directory**: [atm-interface](https://github.com/ajsat007/twsip/tree/main/atm-interface)
+- **GitHub Directory**: [atm-interface](https://github.com/ajsat007/TWSIP/tree/main/ATM_Interface)
 
 ### 3. Online Voting System
 
 - **Description**: Console application for online voting, managing voter registration, candidate listing, and vote casting.
-- **GitHub Directory**: [online-voting-system](https://github.com/ajsat007/twsip/tree/main/online-voting-system)
+- **GitHub Directory**: [online-voting-system](https://github.com/ajsat007/TWSIP/tree/main/Online_Voting_System)
 
 ## How to Use
 
